@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Susmitha Ravipati!
+🔷  **Dat Analyst | Power BI | SQL | Python**
 
-<!--
-**susmitharavipati/susmitharavipati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 About Me
+-  🎯 Passionate about **Data Analytics, SQL, and Power BI**
+-  📊 Creating **interactive dashboards** and **data-driven insights**
+-  💻 **Technical Skills:** SQL, Power BI, MySQL, Python (Pandas, NumPy), DAX
+-  🎓 Completed **PL-900 & PL-300 Microsoft Power BI Certifications**
 
-Here are some ideas to get you started:
+## 📌 My Projects
+✅ **[Telecom IMS/VoIP KPI Report](#)** (📊 Power BI)
+✅ **[Project Requirement Tracker](#)** (📊 Power BI)
+✅ **[SQL Query Optimization & Data Cleaning](#)** (📄 SQL)
+✅ **[Data Visualization with Python (Matplotlib &Seaborn)](#)** (🐍 Python) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Skills & Tools
+🔷 **Databases:** SQL, MySQL, SQL Server
+🔷 **BI Tools:** PowerBI (DAX, Power Query)
+🔷 **Programming:** Python (Pandas, NumPy, Matplotlib, Seaborn)
+🔷 **Data Handling:** ETL, Data Cleaning, Data Transformation
+
+## 📌 Connect with Me
+- 🔗 **GitHub:** [
