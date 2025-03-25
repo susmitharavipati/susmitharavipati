@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Susmitha Ravipati!
-🔷  **Dat Analyst | Power BI | SQL | Python**
+🔷  **Data Analyst | Power BI | SQL | Python**
 
 ## 📌 About Me
 -  🎯 Passionate about **Data Analytics, SQL, and Power BI**
@@ -20,4 +20,5 @@
 🔷 **Data Handling:** ETL, Data Cleaning, Data Transformation
 
 ## 📌 Connect with Me
-- 🔗 **GitHub:** [
+- 🔗 **GitHub:** [https://github.com/susmitharavipati]
+- 🔗 **LinkedIn** [https://www.linkedin.com/in/susmitha-ravipati-9284ab352/]
